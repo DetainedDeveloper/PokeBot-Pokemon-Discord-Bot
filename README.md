@@ -1,7 +1,28 @@
-# PokeBot-Pokemon-Discord-Bot
+# PokeBot : Pokemon Discord Bot
 PokeBot has collection of data of 890 pokemons and can perform various commands. All data was scraped using [Pokemon Data Scraper](https://github.com/DetainedDeveloper/Pokemon-Data-Scraper)
 
 Other than this, all pokemon data is available in single file as well as categorized folder in both **`array[]`** and **`map{}`**
+
+# Screenshots
+
+<table>
+  <tr>
+    <td><h3>Help</h3></td>
+    <td><h3>Pokemon Info</h3></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/DetainedDeveloper/PokeBot-Pokemon-Discord-Bot/blob/master/Screenshots/info.png?raw=true" width=496 height=361></td>
+    <td><img src="https://github.com/DetainedDeveloper/PokeBot-Pokemon-Discord-Bot/blob/master/Screenshots/help.png?raw=true" width=388 height=434></td>
+  </tr>
+  <tr>
+    <td><h3>Battle Two</h3></td>
+    <td><h3>Battle Multiple</h3></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/DetainedDeveloper/PokeBot-Pokemon-Discord-Bot/blob/master/Screenshots/battle_two.png?raw=true" width=337 height=385></td>
+    <td><img src="https://github.com/DetainedDeveloper/PokeBot-Pokemon-Discord-Bot/blob/master/Screenshots/battle_multiple.png?raw=true" width=397 height=386></td>
+  </tr>
+</table>
 
 # Project Structure
 
@@ -12,7 +33,7 @@ Other than this, all pokemon data is available in single file as well as categor
 ### data
 
 - **`config.js`** contains **`Bot Token`**, paste yours to get the bot up and running
-- **`data.js`** contains **`map{}`** of **890 `{ pokemon_name : data }`**
+- **`data.js`** contains **`map{}`** of **890 `{ pokemon_name : data }` pairs**
 - **`dev.js`** contains information about the Developer, **me!**
 
 # How to use
