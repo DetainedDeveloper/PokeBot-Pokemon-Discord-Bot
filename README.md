@@ -1,7 +1,7 @@
 # PokeBot : Pokemon Discord Bot
 PokeBot has collection of data of 890 pokemons and can perform various commands. All data was scraped using [Pokemon Data Scraper](https://github.com/DetainedDeveloper/Pokemon-Data-Scraper)
 
-Other than this, all pokemon data is available in single file as well as categorized folder in both **`array[]`** and **`map{}`**
+Other than this, all pokemon data is both, a [single file](https://github.com/DetainedDeveloper/Pokedex/tree/main/pokedex_raw) and a [categorized folder](https://github.com/DetainedDeveloper/Pokedex/tree/main/pokedex) in **`array[]`** and **`map{}`** structures in [Pokedex](https://github.com/DetainedDeveloper/Pokedex)
 
 # PokeBot Commands
 
