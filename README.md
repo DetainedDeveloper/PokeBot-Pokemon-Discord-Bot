@@ -51,6 +51,6 @@ Other than this, all pokemon data is available in both, a [single file](https://
 
 - After pasting your **`Bot Token`** in [**`data/config.js`**](https://github.com/DetainedDeveloper/PokeBot-Pokemon-Discord-Bot/blob/master/PokeBot/data/config.json), run **`node pokebot.js`**
 
-- You can also install **`nodemon`** by **`npm install --save-dev nodemon -g`** and then adding **`"start" : "nodemon pokebot.js"`** inside [**`package.json`**](https://github.com/DetainedDeveloper/PokeBot-Pokemon-Discord-Bot/blob/master/PokeBot/package.json)
+- You can also install **`nodemon`** by **`npm install --save-dev nodemon -g`** and then adding **`"start" : "nodemon pokebot.js"`** inside **`scripts{}`** in [**`package.json`**](https://github.com/DetainedDeveloper/PokeBot-Pokemon-Discord-Bot/blob/master/PokeBot/package.json)
 
 - Last but not least, check out [Embed Messages](https://discordjs.guide/popular-topics/embeds.html#using-the-embed-constructor) to design beautiful message templates
