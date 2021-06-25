@@ -3,6 +3,15 @@ PokeBot has collection of data of 890 pokemons and can perform various commands.
 
 Other than this, all pokemon data is available in single file as well as categorized folder in both **`array[]`** and **`map{}`**
 
+# PokeBot Commands
+
+- **`p!dev`** : Get information about the Developer, **me!**
+- **`p!info pokemon_name`** : Get information about a specific pokemon
+- **`p!random`** : Get information about a random pokemon (**Yet to be implemented**)
+- **`p!battle pokemon 1, pokemon 2, ..., pokemon n`** : Battle **`two` or `multiple`** pokemons
+- **`p!ping`** : Ping PokeBot
+- **`p!help`** : List all PokeBot commands
+
 # Screenshots
 
 <table>
@@ -23,15 +32,6 @@ Other than this, all pokemon data is available in single file as well as categor
     <td><img src="https://github.com/DetainedDeveloper/PokeBot-Pokemon-Discord-Bot/blob/master/Screenshots/battle_multiple.png?raw=true" width=397 height=386></td>
   </tr>
 </table>
-
-# PokeBot Commands
-
-- **`p!dev`** : Get information about the Developer, **me!**
-- **`p!info pokemon_name`** : Get information about a specific pokemon
-- **`p!random`** : Get information about a random pokemon (**Yet to be implemented**)
-- **`p!battle pokemon 1, pokemon 2, ..., pokemon n`** : Battle **`two` or `multiple`** pokemons
-- **`p!ping`** : Ping PokeBot
-- **`p!help`** : List all PokeBot commands
 
 # Project Structure
 
