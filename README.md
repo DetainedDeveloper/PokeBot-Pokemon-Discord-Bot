@@ -11,8 +11,8 @@ Other than this, all pokemon data is available in single file as well as categor
     <td><h3>Pokemon Info</h3></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/DetainedDeveloper/PokeBot-Pokemon-Discord-Bot/blob/master/Screenshots/help.png?raw=true" width=496 height=361></td>
-    <td><img src="https://github.com/DetainedDeveloper/PokeBot-Pokemon-Discord-Bot/blob/master/Screenshots/info.png?raw=true" width=388 height=434></td>
+    <td><img src="https://github.com/DetainedDeveloper/PokeBot-Pokemon-Discord-Bot/blob/master/Screenshots/help.png?raw=true" width=388 height=434></td>
+    <td><img src="https://github.com/DetainedDeveloper/PokeBot-Pokemon-Discord-Bot/blob/master/Screenshots/info.png?raw=true" width=496 height=361></td>
   </tr>
   <tr>
     <td><h3>Battle Two</h3></td>
