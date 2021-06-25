@@ -1,0 +1,19 @@
+{
+  "name": "pokebot",
+  "version": "1.0.0",
+  "description": "Pokemon Bot",
+  "main": "pokebot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "pokemon",
+    "pokebot"
+  ],
+  "author": "DetainedDeveloper",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}

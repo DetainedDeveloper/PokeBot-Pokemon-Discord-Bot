@@ -1,0 +1,12 @@
+{
+    "title": "Hi there! I'm Jay.",
+    "desc": "Click above ☝️ to check out my Instagram!",
+    "url": "https://www.instagram.com/_infinite.me_",
+    "image_url": "https://avatars.githubusercontent.com/u/42181035?v=4",
+    "bio": "Brief information about me",
+    "bio_value": "I'm a freelancer in mobile app development (Native `Android` and Hybird with `Flutter`) and `IoT`.\n\nI occasionally host and instruct in `webinars` about app development with `Flutter`. To keep an eye on it, follow me on Instagram! I also click pictures and post them there.",
+    "github": "Github",
+    "github_value": "`DetainedDeveloper`",
+    "insta": "Instagram",
+    "insta_value": "`_infinite.me_`"
+}
