@@ -24,6 +24,15 @@ Other than this, all pokemon data is available in single file as well as categor
   </tr>
 </table>
 
+# PokeBot Commands
+
+- **`p!dev`** : Get information about the Developer, **me!**
+- **`p!info pokemon_name`** : Get information about a specific pokemon
+- **`p!random`** : Get information about a random pokemon (**Yet to be implemented**)
+- **`p!battle pokemon 1, pokemon 2, ..., pokemon n`** : Battle **`two` or `multiple`** pokemons
+- **`p!ping`** : Ping PokeBot
+- **`p!help`** : List all PokeBot commands
+
 # Project Structure
 
 ### pokebot.js
@@ -41,4 +50,7 @@ Other than this, all pokemon data is available in single file as well as categor
 - I found this very informative [starting guide](https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js) that helped me set up the **`environment`**
 
 - After pasting your **`Bot Token`** in [**`data/config.js`**](https://github.com/DetainedDeveloper/PokeBot-Pokemon-Discord-Bot/blob/master/PokeBot/data/config.json), run **`node pokebot.js`**
+
 - You can also install **`nodemon`** by **`npm install --save-dev nodemon -g`** and then adding **`"start" : "nodemon pokebot.js"`** inside [**`package.json`**](https://github.com/DetainedDeveloper/PokeBot-Pokemon-Discord-Bot/blob/master/PokeBot/package.json)
+
+- Last but not least, check out [Embed Messages](https://discordjs.guide/popular-topics/embeds.html#using-the-embed-constructor) to design beautiful message templates
