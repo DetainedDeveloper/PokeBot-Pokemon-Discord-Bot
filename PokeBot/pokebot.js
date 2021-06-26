@@ -82,7 +82,7 @@ function pokemonCard(pokemon) {
 };
 
 // Will be used to send winner pokemon
-function winnerCard(pokes, winner, time) {
+function winnerCard(winner, time) {
 
     return new discord.MessageEmbed()
         .setColor('#0099ff')
@@ -250,7 +250,7 @@ client.on('message', function (message) {
             const winner = data[args[win_count.indexOf(Math.max.apply(null, win_count))].toLowerCase()];
 
             // Just to keep track of how much time the calulation took
-            message.reply(winnerCard(poke_data, winner, (Date.now() - message.createdTimestamp)));
+            message.reply(winnerCard(winner, (Date.now() - message.createdTimestamp)));
 
         } else {
             message.reply('Can\'t battle pokemons because ' + args[invalid_index] + ' is an invalid pokemon.');
