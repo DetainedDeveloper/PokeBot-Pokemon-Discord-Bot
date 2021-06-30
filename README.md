@@ -41,9 +41,9 @@ Other than this, all pokemon data is available in both, a [single file](https://
 
 ### data
 
-- **`config.js`** contains **`Bot Token`**, paste yours to get the bot up and running
-- **`data.js`** contains **`map{}`** of **890 `{ pokemon_name : data }` pairs**
-- **`dev.js`** contains information about the Developer, **me!**
+- **`config.json`** contains **`Bot Token`**, paste yours to get the bot up and running
+- **`data.json`** contains **`map{}`** of **890 `{ pokemon_name : data }` pairs**
+- **`dev.json`** contains information about the Developer, **me!**
 
 # How to use
 
